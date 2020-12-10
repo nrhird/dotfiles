@@ -1,0 +1,17 @@
+syntax on
+set t_Co=256
+set nocompatible
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+set autoread
+set encoding=utf8
+set ffs=unix,dos,mac
+set nobackup
+set nowb
+set noswapfile
+set expandtab
+set smarttab
+set background=dark
+set number
+colorscheme vibrantink
